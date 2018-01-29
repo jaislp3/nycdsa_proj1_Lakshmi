@@ -1,0 +1,40 @@
+Index,Name,Country,Region,addresses,longi,lati
+Nasdaq,NASDAQ,USA,USA,"NASDAQ, USA",-74.01091,40.70973
+S&P 500,NYSE,USA,USA,"NYSE, USA",-74.01127,40.70688
+Dow Jones Indices,"Dow Jones
+Indices",USA,USA,"55 Water Street, New York, NY",-74.0089,40.70332
+Swiss market,Six Swiss Exchange,Switzerlad,Europe,"Six Swiss Exchange, Switzerland",8.506711,47.39165
+"UK FTSE 100
+",London Stock Exchange,U.K.,Europe,"London Stock Exchange, UK",-0.099034,51.51505
+Sweden OMX ,Nasdaq Stockholm,Sweden,Europe,"Nasdaq Stockholm, Sweden",18.12165,59.34009
+Spain IBEX,Bolsa de Madrid,Spain,Europe,"Bolsa de Madrid, Spain",-3.692001,40.41699
+Lithuania OMX ,Nasdaq Vilnius,Lithuania,Europe,"Nasdaq Vilnius, Lithuania",25.2651,54.69948
+Italy FTSE MIB,Borsa Italiana,Italy,Europe,"Borsa Italiana, Italy",9.183176,45.46514
+Ireland ISEQ Overall,Irish Stock Exchange,Ireland,Europe,"Irish Stock Exchange, Ireland",-6.261756,53.34503
+Iceland OMX,Nasdaq Iceland,Iceland,Europe,"Nasdaq Iceland, Iceland",-21.89443,64.13962
+Finland OMX Helsinki,Nasdaq Helsinki,Finland,Europe,"Nasdaq Helsinki, Finland",24.94922,60.16841
+Greece FTSE,Athens Stock Exchange,Greece,Europe,"Athens Stock Exchange, Greece",23.7293,37.98095
+ Germany DAX,Frankfurt Stock Exchange,Germany,Europe,"Frankfurt Stock Exchange, Germany",8.677798,50.11517
+Austria ATX,Wiener B?rse AG,Austria,Europe,"Wiener Borse, Austria",16.36602,48.21028
+Thailand SET,Stock Exchange of Thailand,Thailand,Asia Pacific,"Stock Exchange of Thailand, thailand",100.5678,13.76354
+Weighted Taiwan,Taiwan Stock Exchange,Taiwan,Asia Pacific,"Taiwan Stock Exchange, Taiwan",121.5648,25.03372
+Singapore FTSE Starits Times,Singapore Exchange,Singapore,Asia Pacific,"Singapore Exchange, Singapore",103.8499,1.279443
+Bursa Malaysia KCLI,Bursa Malaysia,Malaysia,Asia Pacific,"Bursa Malaysia, Malaysia",101.7014,3.14824
+NZX 50,New Zealand Stock Market (NZSX),New Zealand,Asia Pacific,"New Zealand  Stock Market, New Zealand",174.7667,-36.84421
+Nikkei 250,Tokyo Stock Exchange,Japan,Asia Pacific,"Tokyo Stock Exchange, Japan",139.7788,35.68267
+S &P BSE Sensex,Bombay Stock Exchange,India,Asia Pacific,"Bombay Stock Exchange, India",72.8333,18.92998
+S  &P CNX Nifty,National Stock Exchange,India,Asia Pacific,"National Stock Exchange, India",72.85969,19.06014
+Indonesia JSX,Indonesia Stock Exchange,Indonesia,Asia Pacific,Indonesia Stock Exchange,106.809,-6.223669
+Hang Seng,Hong Kong Stock Exchange,Hong Kong,Asia Pacific,"Hong Kong Stock Exchange, Hong Kong",114.1583,22.28364
+China Sahangai Composite,Shangai Stock Exchange,China,Asia Pacific,"Shangai Stock Exchange, China",121.5114,31.23634
+China Shenzen Composite,Shenzen Stock Exchange,China,Asia Pacific,"Shenzen Stock Exchange, China",114.054,22.54164
+Meico IPC All Share,"Bolsa Mexicana de Valores 
+(Mexican Stock Exchange)",Mexico,Americas,"Bolsa Mexicana de Valores 
+(Mexican Stock Exchange), Mexico",-99.16439,19.42933
+Canada S& P TSX,Toronto Stock Exchange,Canada,Americas,"Toronto Stock Exchange, Canada",-79.38338,43.6483
+Chile Santiago IPSA,Santiago Stock Exchange,Chile,Americas,"Santiago Stock Exchange, Chile",-70.65131,-33.44266
+Brazil Bovespa,B3 Stock Exchange,Brazil,Americas,"B3 Stock Exchange, Brazil",-46.63436,-23.54576
+Argentina Merval,Buenos Aires Stock Exchange,Argentina,Americas,"Buenos Aires Stock Exchange, Argentina",-58.371,-34.60416
+Israel Tel Aviv ,Tel Aviv Stok Exchange,Israel,Others,"Tel Aviv Stok Exchange, Israel",34.77031,32.06434
+Denmark  OMX Copenhagen 20,Nasdaq Copenhgen,Denmark,Europe,"Nasdaq Copenhgen, Denmark",12.58141,55.67903
+FTSE JSE Africa All Share,Johannesburg Stock Exchange,South Africa,Others,"Johannesburg Stock Exchange, South Africa",28.05728,-26.10335

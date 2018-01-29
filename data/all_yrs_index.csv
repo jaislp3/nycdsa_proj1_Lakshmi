@@ -1,0 +1,617 @@
+Region,Index_Country,one_yr_high,one_yr_low,one_yr_percent_chg,three_yrs_percent_chg,year
+Global,The Global Dow  (World),NA,NA,NA,NA,2008
+Global,The Global Dow Euro (World),NA,NA,NA,NA,2008
+Global,DJ Global Index (World),320.33,270.72,7.3,11.8,2008
+Global,DJ Global ex U.S. (World),291.11,236.95,10.9,16.3,2008
+Asia Pacific,S & P/ASX 200 (Australia),6828.7,5502,12.5,16.2,2008
+Asia Pacific,Shanghai Composite (China),6092.06,2612.54,97.1,NA,2008
+Asia Pacific,Hang Seng (Hong Kong),31638.22,18664.88,35,24.7,2008
+Asia Pacific,S & P BSE Sensex (India),20465.3,12415.04,46,45.8,2008
+Asia Pacific,Nikkei 225 (Japan),363.32,291.59,-10.5,10.7,2008
+Asia Pacific,Weighted (Taiwan),9809.88,7344.56,5.1,10.7,2008
+Europe,Stoxx Europe 600 (Europe),400.31,349.18,-2.6,12.8,2008
+Europe,Bel-20 (Belgium),4756.82,3882.37,-7.9,12,2008
+Europe,CAC 40 (France),6168.15,5265.47,-1.1,13.3,2008
+Europe,DAX (Germany),8105.69,6447.7,18.8,23.2,2008
+Europe,FTSE MIB (Italy),44364,37358,-9.6,7.2,2008
+Europe,SX All Share (Sweden),427.24,338.99,-8.2,14.8,2008
+Europe,Swiss Market (Switzerland),9531.46,8125.42,-4.9,14.2,2008
+Europe,FTSE 100 (U.K.),6732.4,5858.9,1.5,10.1,2008
+Americas,Merval (Argentina),2351.44,1833.71,2.6,16.1,2008
+Americas,Sao Paulo Bovespa (Brazil),65790.8,41179.16,41.3,33.9,2008
+Americas,S & P/TSX Comp (Canada),14625.76,12457.55,9.6,14.6,2008
+Americas,Santiago IPSA (Chile),3499.5,2690.93,9.9,18.5,2008
+Americas,IPC All-Share (Mexico),32836.12,25783.04,7.8,30.5,2008
+Other,CASE 30 (Egypt),10690.14,6545.14,50.5,NA,2008
+Other,Tel Aviv (Israel),1237.13,909.61,28.9,25.1,2008
+Other,Johannesburg All Share (S.A.),31531.05,24201.02,19,32.2,2008
+Global,The Global Dow  (World),2774.34,1264.68,-42,-1.9,2009
+Global,The Global Dow Euro (World),1731.53,950.87,-38.5,-7.2,2009
+Global,DJ Global Index (World),297.12,143.63,-39.6,-9,2009
+Global,DJ Global ex U.S. (World),270.51,123.87,-43.6,-8.8,2009
+Asia Pacific,DJ Asia-Pacific TSM (Asia-Pacific),157.77,79.11,-39.9,-10.8,2009
+Asia Pacific,All Ordinaries (Australia),6385.4,3332.6,-42.7,-8.1,2009
+Asia Pacific,S & P/ASX 200 (Australia),6306.8,3352.9,-41.1,-8,2009
+Asia Pacific,DJ CBN China 600 (China),44607.91,12886.57,-65.5,20.4,2009
+Asia Pacific,Dow Jones China 88 (China),504.37,149.53,-65.9,19.6,2009
+Asia Pacific,Shanghai Composite (China),5497.9,1706.7,-66,NA,2009
+Asia Pacific,Hang Seng (Hong Kong),27615.85,11015.84,-45.3,0.4,2009
+Asia Pacific,S & P BSE Sensex (India),20873.33,8451.01,-51.9,2,2009
+Asia Pacific,Jakarta Composite (Indonesia),2830.26,1111.39,-51,5,2009
+Asia Pacific,Nikkei 225 (Japan),291.34,152.8,-39.3,-17.8,2009
+Asia Pacific,Nikkei Stock Avg (Japan),14691.41,7162.9,-39.7,-18.1,2009
+Asia Pacific,Topix Index (Japan),NA,NA,NA,NA,2009
+Asia Pacific,Kuala Lumpur Composite (Malaysia),1516.22,829.41,-39,-0.2,2009
+Asia Pacific,S & P/NZX 50 (New Zealand),4010.82,2575.48,-32.3,-7,2009
+Asia Pacific,KSE 100 (Pakistan),15676.34,5753.18,-59.4,-15.7,2009
+Asia Pacific,PSEi (Philippines),3503.7,1704.41,-46.2,-3.6,2009
+Asia Pacific,Straits Times (Singapore),3416.48,1600.28,-46.4,-7.1,2009
+Asia Pacific,Kospi (South Korea),1888.88,938.75,-37.9,-5.9,2009
+Asia Pacific,Colombo Stock Exchange (Sri Lanka),2681.27,1484.53,-37.1,-6.8,2009
+Asia Pacific,Weighted (Taiwan),9295.2,4089.93,-44.2,-10.8,2009
+Asia Pacific,SET (Thailand),884.19,384.15,-45.2,-14.3,2009
+Europe,Stoxx Europe 600 (Europe),353.43,182.13,-41.9,-13.1,2009
+Europe,Stoxx Europe 50 (Europe),3614.48,1894.31,-40.1,-13.9,2009
+Europe,Euro Stoxx 50 (Euro zone),4295.23,2165.91,-40.6,-11.1,2009
+Europe,Euro Stoxx (Euro zone),402.46,198.93,-42.6,-11.4,2009
+Europe,ATX (Austria),4532.1,1516.09,-58.4,-21,2009
+Europe,Bel-20 (Belgium),4097.28,1783.7,-51.6,-17.9,2009
+Europe,PX 50 (Czech Republic),1760,699.8,-50.6,-16.3,2009
+Europe,OMX Copenhagen (Denmark),439.09,215.4,-44.7,-13.9,2009
+Europe,OMX Helsinki (Finland),11180.88,5047.69,-50,-12,2009
+Europe,CAC 40 (France),5495.67,2881.26,-38.5,-11,2009
+Europe,DAX (Germany),7849.99,4127.41,-36.3,-3,2009
+Europe,BUX (Hungary),26111.36,10751.23,-51.5,-16.5,2009
+Europe,FTSE MIB (Italy),37601,17968,-46.7,-17.8,2009
+Europe,AEX (Netherlands),500.63,222.93,-48.4,-16.3,2009
+Europe,All-Shares (Norway),603.98,232.29,-48.5,-8.9,2009
+Europe,WIG (Poland),54850.74,24852.95,-50.4,-8.9,2009
+Europe,PSI 20 (Portugal),12636.55,5801.76,-49,-9.3,2009
+Europe,DJ Russia Titans 10 (Russia),7900.67,2216.22,-64.6,-12.1,2009
+Europe,RTS Index (Russia),2487.92,549.43,-72.4,NA,2009
+Europe,IBEX 35 (Spain),14670.5,7905.4,-35,-4.2,2009
+Europe,SX All Share (Sweden),334.77,176.54,-35.6,-11,2009
+Europe,Swiss Market (Switzerland),8339.81,5144.02,-31.9,-10,2009
+Europe,BIST 100 (Turkey),53235.93,21228.27,-48.6,-12.1,2009
+Europe,FTSE 100 (U.K.),6376.5,3781,-28.1,-6.7,2009
+Europe,FTSE 250 (U.K.),10557.3,5491.46,-35.4,-9,2009
+Americas,DJ Americas (Americas),375.06,186.51,-35.5,-8.8,2009
+Americas,Merval (Argentina),2248.63,828.99,-46.3,-9.8,2009
+Americas,Sao Paulo Bovespa (Brazil),73516.8,29435.11,-34.1,6.3,2009
+Americas,S & P/TSX Comp (Canada),15073.13,7724.76,-33,-6.4,2009
+Americas,Santiago IPSA (Chile),3096.11,2101.1,-16.2,7.9,2009
+Americas,IPC All-Share (Mexico),32095.04,16868.66,-17.9,9.1,2009
+Other,CASE 30 (Egypt),11935.67,3686.35,-57.2,-10.9,2009
+Other,Tel Aviv (Israel),1208.47,592.07,-44.8,-7.4,2009
+Other,Johannesburg All Share (S.A.),33232.89,17814.42,-24.9,6.4,2009
+Global,The Global Dow  (World),2015.63,1139.9,27.3,-2,2010
+Global,The Global Dow Euro (World),1314.48,849.42,20.2,-5.1,2010
+Global,DJ Global Index (World),230.96,130.29,30.7,-5.9,2010
+Global,DJ Global ex U.S. (World),204.85,111.8,35.8,-5.5,2010
+Asia Pacific,DJ Asia-Pacific TSM (Asia-Pacific),124.72,73.76,32.2,-5.2,2010
+Asia Pacific,All Ordinaries (Australia),4889.8,3111.7,34.4,-4.2,2010
+Asia Pacific,S & P/ASX 200 (Australia),4876.3,3145.5,32.3,-4.4,2010
+Asia Pacific,DJ CBN China 600 (China),29890.92,15326.29,88,22.3,2010
+Asia Pacific,Dow Jones China 88 (China),327.69,167.58,75.1,15.7,2010
+Asia Pacific,Shanghai Composite (China),3471.44,1863.37,72.5,6.1,2010
+Asia Pacific,Hang Seng (Hong Kong),22943.98,11344.58,40.2,2.9,2010
+Asia Pacific,S & P BSE Sensex (India),17558.73,8160.4,70.9,8.2,2010
+Asia Pacific,Jakarta Composite (Indonesia),2575.41,1256.11,79.2,12.2,2010
+Asia Pacific,Nikkei 225 (Japan),196.39,140.76,4.3,-18.1,2010
+Asia Pacific,Nikkei Stock Avg (Japan),10654.79,7054.98,17.8,-15,2010
+Asia Pacific,Topix Index (Japan),975.59,700.93,4.5,-18.6,2010
+Asia Pacific,Kuala Lumpur Composite (Malaysia),1279.95,838.39,38.6,4.5,2010
+Asia Pacific,S & P/NZX 50 (New Zealand),3252.56,2417.95,17.7,-7.1,2010
+Asia Pacific,KSE 100 (Pakistan),9845.73,4815.34,59.5,-2.5,2010
+Asia Pacific,PSEi (Philippines),3119.96,1759.33,52.2,-0.1,2010
+Asia Pacific,Straits Times (Singapore),2897.62,1456.95,50.4,-0.8,2010
+Asia Pacific,Kospi (South Korea),1718.88,1018.81,44.5,6.7,2010
+Asia Pacific,Colombo Stock Exchange (Sri Lanka),3481.64,1532.25,123,8.3,2010
+Asia Pacific,Weighted (Taiwan),8207.85,4242.61,74.7,1.1,2010
+Asia Pacific,SET (Thailand),751.86,411.27,53,4.2,2010
+Europe,Stoxx Europe 600 (Europe),257.65,157.97,23.5,-11.3,2010
+Europe,Stoxx Europe 50 (Europe),2622.54,1614.75,20.1,-11.3,2010
+Europe,Euro Stoxx 50 (Euro zone),3017.8,1809.98,18.2,-10.3,2010
+Europe,Euro Stoxx (Euro zone),279.71,169.38,20.1,-11.2,2010
+Europe,ATX (Austria),2752.39,1411.95,38.7,-17.5,2010
+Europe,Bel-20 (Belgium),2606.93,1527.27,27.9,-16.6,2010
+Europe,PX 50 (Czech Republic),1195.7,628.5,28.1,-11.1,2010
+Europe,OMX Copenhagen (Denmark),325.9,193.26,29.8,-8.4,2010
+Europe,OMX Helsinki (Finland),6632.35,4110.31,13.4,-11.6,2010
+Europe,CAC 40 (France),4013.97,2519.29,19.5,-10.4,2010
+Europe,DAX (Germany),6048.3,3666.41,21.4,-3.2,2010
+Europe,BUX (Hungary),21612.57,9461.29,68.2,-4.1,2010
+Europe,FTSE MIB (Italy),24425.98,12621,16.2,-17.4,2010
+Europe,AEX (Netherlands),343.03,199.25,31,-11.8,2010
+Europe,All-Shares (Norway),429.51,239.48,47,-4.4,2010
+Europe,WIG (Poland),40852.94,21274.28,43.9,-6.8,2010
+Europe,PSI 20 (Portugal),8882.69,5743.09,31,-8.6,2010
+Europe,DJ Russia Titans 10 (Russia),5730.77,2351.18,112.3,-5,2010
+Europe,RTS Index (Russia),1486.62,498.2,128.6,-5.8,2010
+Europe,IBEX 35 (Spain),12145.1,6817.4,25.9,-5.5,2010
+Europe,SX All Share (Sweden),304.25,186.4,41.7,-6.6,2010
+Europe,Swiss Market (Switzerland),6631.44,4307.67,15.2,-9.4,2010
+Europe,BIST 100 (Turkey),53368.16,23035.95,90.7,11,2010
+Europe,FTSE 100 (U.K.),5500.3,3512.1,20.1,-4.4,2010
+Europe,FTSE 250 (U.K.),9546.64,5769.79,41,-5.4,2010
+Americas,DJ Americas (Americas),301.8,172.41,29.2,-4.9,2010
+Americas,Merval (Argentina),2384.49,930.12,107,4.8,2010
+Americas,Sao Paulo Bovespa (Brazil),70045.08,36234.69,68.7,16.8,2010
+Americas,S & P/TSX Comp (Canada),11866.9,7566.94,27.8,-1.9,2010
+Americas,Santiago IPSA (Chile),3620.7,2360,48.3,9.8,2010
+Americas,IPC All-Share (Mexico),32758.53,16929.8,41,7.2,2010
+Other,CASE 30 (Egypt),7249.55,3389.31,33.7,-4,2010
+Other,Tel Aviv (Israel),1163.11,637.23,71.1,7.3,2010
+Other,Johannesburg All Share (S.A.),27895.19,18120.69,25.1,4.9,2010
+Global,The Global Dow  (World),2104.69,1699.63,4.4,-8.8,2011
+Global,The Global Dow Euro (World),1496.73,1257.42,12.8,-5.8,2011
+Global,DJ Global Index (World),255.68,203.56,10.7,-5,2011
+Global,DJ Global ex U.S. (World),222.25,170.93,8.5,-6.4,2011
+Asia Pacific,DJ Asia-Pacific TSM (Asia-Pacific),142.86,111.94,14.5,-3.4,2011
+Asia Pacific,All Ordinaries (Australia),5024.1,4250.6,-0.7,-9,2011
+Asia Pacific,S & P/ASX 200 (Australia),5001.9,4222.1,-2.7,-9,2011
+Asia Pacific,DJ CBN China 600 (China),29974.75,20950.68,-7.3,-14.2,2011
+Asia Pacific,Dow Jones China 88 (China),299.89,208.48,-18,-19.9,2011
+Asia Pacific,Shanghai Composite (China),3282.18,2363.95,-15.8,-18.9,2011
+Asia Pacific,Hang Seng (Hong Kong),24964.37,18985.5,7.4,-4.5,2011
+Asia Pacific,S & P BSE Sensex (India),21004.96,15790.93,17.1,0.4,2011
+Asia Pacific,Jakarta Composite (Indonesia),3786.1,2475.57,44.7,11.1,2011
+Asia Pacific,Nikkei 225 (Japan),202.75,163.58,-2.3,-15.4,2011
+Asia Pacific,Nikkei Stock Avg (Japan),11339.3,8824.06,-4,-12.6,2011
+Asia Pacific,Topix Index (Japan),998.9,803.12,-1.9,-15.2,2011
+Asia Pacific,Kuala Lumpur Composite (Malaysia),1533.42,1233.86,20.2,2.2,2011
+Asia Pacific,S & P/NZX 50 (New Zealand),3335.51,2933.82,2.4,-6.4,2011
+Asia Pacific,KSE 100 (Pakistan),12031.46,9229.6,25.6,-5.4,2011
+Asia Pacific,PSEi (Philippines),4397.3,2797.61,40.3,6.4,2011
+Asia Pacific,Straits Times (Singapore),3313.61,2650.61,11.8,-1.4,2011
+Asia Pacific,Kospi (South Korea),2070.08,1552.79,22,3.8,2011
+Asia Pacific,Colombo Stock Exchange (Sri Lanka),7147.77,3478.56,91.2,38.1,2011
+Asia Pacific,Weighted (Taiwan),9025.3,7071.67,10,3.3,2011
+Asia Pacific,SET (Thailand),1049.79,685.89,41,7.4,2011
+Europe,Stoxx Europe 600 (Europe),281.76,232.11,7.9,-8.2,2011
+Europe,Stoxx Europe 50 (Europe),2711.84,2285.13,-0.7,-10.6,2011
+Europe,Euro Stoxx 50 (Euro zone),3017.85,2488.5,-5.9,-13.1,2011
+Europe,Euro Stoxx (Euro zone),284.91,237.29,-0.3,-11.9,2011
+Europe,ATX (Austria),2951.88,2216.84,16.4,-12.9,2011
+Europe,Bel-20 (Belgium),2716.7,2296.81,2.6,-13.9,2011
+Europe,PX 50 (Czech Republic),1314.6,1092.8,9.8,-11.5,2011
+Europe,OMX Copenhagen (Denmark),430.83,323.44,32.2,-0.8,2011
+Europe,OMX Helsinki (Finland),7812.24,6134.78,17.9,-12.1,2011
+Europe,CAC 40 (France),4065.65,3331.29,-2.8,-11.1,2011
+Europe,DAX (Germany),7077.99,5434.34,15.6,-4,2011
+Europe,BUX (Hungary),25322.96,20221.37,0.9,-5.6,2011
+Europe,FTSE MIB (Italy),23811.13,18382.71,-13.2,-18.7,2011
+Europe,AEX (Netherlands),359.86,305.03,4.9,-10.9,2011
+Europe,All-Shares (Norway),490.16,367.63,14.1,-4.7,2011
+Europe,WIG (Poland),48004.74,37322.52,17.7,-4.7,2011
+Europe,PSI 20 (Portugal),8839.75,6624.29,-10.4,-15.5,2011
+Europe,DJ Russia Titans 10 (Russia),6803.8,4801.88,22,-4.2,2011
+Europe,RTS Index (Russia),1772.53,1226.57,22.5,-8.2,2011
+Europe,IBEX 35 (Spain),12222.5,8669.8,-18.6,-12.7,2011
+Europe,SX All Share (Sweden),375.82,291.74,23.6,3.1,2011
+Europe,Swiss Market (Switzerland),6967.56,5942.25,-2.1,-7.9,2011
+Europe,BIST 100 (Turkey),71543.26,48739.43,26.7,8.1,2011
+Europe,FTSE 100 (U.K.),6008.9,4805.8,7.3,-3.1,2011
+Europe,FTSE 250 (U.K.),11628.89,9010.37,24.2,2.7,2011
+Americas,DJ Americas (Americas),344.54,272.7,14.2,-2.5,2011
+Americas,Merval (Argentina),3628.48,2061.07,52.2,19.1,2011
+Americas,Sao Paulo Bovespa (Brazil),72995.69,58192.08,-0.1,3.6,2011
+Americas,S & P/TSX Comp (Canada),13449.17,11092.5,14.4,-1,2011
+Americas,Santiago IPSA (Chile),5026.28,3620.7,37.2,18.4,2011
+Americas,IPC All-Share (Mexico),38605.8,30368.08,17.8,10.2,2011
+Other,CASE 30 (Egypt),7603.04,5850.38,11.8,-13,2011
+Other,Tel Aviv (Israel),1335.03,1045.7,14.8,3.4,2011
+Other,Johannesburg All Share (S.A.),32308.11,25793.06,15.8,3.5,2011
+Global,The Global Dow  (World),2262.21,1669.03,-13.6,5.8,2012
+Global,The Global Dow Euro (World),1548.75,1167.37,-10.7,8.8,2012
+Global,DJ Global Index (World),274.64,208.34,-9.9,10.2,2012
+Global,DJ Global ex U.S. (World),238.76,171.6,-16.3,7.9,2012
+Asia Pacific,DJ Asia-Pacific TSM (Asia-Pacific),145.35,112.09,-17.4,8,2012
+Asia Pacific,All Ordinaries (Australia),5064.9,3927.6,-15.2,4.6,2012
+Asia Pacific,S & P/ASX 200 (Australia),4971.2,3863.9,-14.5,3.5,2012
+Asia Pacific,DJ CBN China 600 (China),28499.08,19121.71,-27.1,9.3,2012
+Asia Pacific,Dow Jones China 88 (China),267.9,191.13,-20.1,5.8,2012
+Asia Pacific,Shanghai Composite (China),3057.33,2166.21,-21.7,6.3,2012
+Asia Pacific,Hang Seng (Hong Kong),24419.62,16250.27,-20,9,2012
+Asia Pacific,S & P BSE Sensex (India),20561.05,15175.08,-24.5,15.9,2012
+Asia Pacific,Jakarta Composite (Indonesia),4193.44,3269.45,2.2,41.1,2012
+Asia Pacific,Nikkei 225 (Japan),198.35,142.2,-19.3,-5.6,2012
+Asia Pacific,Nikkei Stock Avg (Japan),10857.53,8160.01,-17.3,-1.5,2012
+Asia Pacific,Topix Index (Japan),974.63,706.08,-18.9,-5.3,2012
+Asia Pacific,Kuala Lumpur Composite (Malaysia),1594.74,1331.8,0.8,20.2,2012
+Asia Pacific,S & P/NZX 50 (New Zealand),3577.44,3097.78,-1,6.9,2012
+Asia Pacific,KSE 100 (Pakistan),12681.94,10842.26,-4.8,24.9,2012
+Asia Pacific,PSEi (Philippines),4550.53,3721.22,3.7,32.7,2012
+Asia Pacific,Straits Times (Singapore),3279.7,2528.71,-17,14.3,2012
+Asia Pacific,Kospi (South Korea),2228.96,1652.71,-11.8,16.4,2012
+Asia Pacific,Colombo Stock Exchange (Sri Lanka),7811.82,5805.76,-8.8,56.7,2012
+Asia Pacific,Weighted (Taiwan),9145.35,6633.33,-23,14.8,2012
+Asia Pacific,SET (Thailand),1144.14,855.45,-0.7,31.6,2012
+Europe,Stoxx Europe 600 (Europe),291.16,214.89,-11.1,6.5,2012
+Europe,Stoxx Europe 50 (Europe),2768.65,2028.03,-8.2,3.7,2012
+Europe,Euro Stoxx 50 (Euro zone),3068,1995.01,-16.5,-2.2,2012
+Europe,Euro Stoxx (Euro zone),296.96,200.94,-17.2,0,2012
+Europe,ATX (Austria),3000.7,1652.79,-34.2,2.3,2012
+Europe,Bel-20 (Belgium),2770.81,1916.26,-19.7,2.2,2012
+Europe,PX 50 (Czech Republic),1276.3,843,-25.7,2,2012
+Europe,OMX Copenhagen (Denmark),441.74,311.34,-15.4,15.3,2012
+Europe,OMX Helsinki (Finland),7912.33,5020.54,-29.6,-0.5,2012
+Europe,CAC 40 (France),4157.14,2781.68,-17.4,-1.3,2012
+Europe,DAX (Germany),7527.64,5072.33,-13.1,6.9,2012
+Europe,BUX (Hungary),24451.38,14929.76,-21.2,11.9,2012
+Europe,FTSE MIB (Italy),23178.38,13474.14,-24.4,-8.2,2012
+Europe,AEX (Netherlands),374.19,263.44,-12,7.1,2012
+Europe,All-Shares (Norway),513.6,373.47,-8.9,16.1,2012
+Europe,WIG (Poland),50371.74,36549.47,-20.2,12.1,2012
+Europe,PSI 20 (Portugal),8126.06,5185.1,-27.2,-4.4,2012
+Europe,DJ Russia Titans 10 (Russia),7565.66,5234.47,-15,28.7,2012
+Europe,RTS Index (Russia),2123.56,1217.21,-21.9,30.2,2012
+Europe,IBEX 35 (Spain),11113,7640.7,-11.8,-2.8,2012
+Europe,SX All Share (Sweden),375.82,270.24,-17.2,13.3,2012
+Europe,Swiss Market (Switzerland),6717.25,4791.96,-7.8,2.4,2012
+Europe,BIST 100 (Turkey),70072.02,49621.67,-24.1,23.9,2012
+Europe,FTSE 100 (U.K.),6091.3,4944.4,-5.6,8.3,2012
+Europe,FTSE 250 (U.K.),12167.81,9425.93,-12.6,16.1,2012
+Americas,DJ Americas (Americas),369.17,288.17,-3.4,13.9,2012
+Americas,Merval (Argentina),3664.82,2286.73,-30.1,31.8,2012
+Americas,Sao Paulo Bovespa (Brazil),71632.9,48668.29,-17.3,12.8,2012
+Americas,S & P/TSX Comp (Canada),14270.53,11177.91,-11.1,10.6,2012
+Americas,Santiago IPSA (Chile),5040.97,3606.31,-16.3,19.5,2012
+Americas,IPC All-Share (Mexico),38696.24,31715.78,-3.3,17.1,2012
+Other,CASE 30 (Egypt),7210.41,3586.55,-48,-7.1,2012
+Other,Tel Aviv (Israel),1341.89,999.46,-17,18.4,2012
+Other,Johannesburg All Share (S.A.),33094.06,28391.18,-0.4,14.4,2012
+Global,The Global Dow  (World),2043.63,1704.89,11.2,1,2013
+Global,The Global Dow Euro (World),1456.81,1284.67,8.4,3.7,2013
+Global,DJ Global Index (World),265.67,222.68,14.1,5.4,2013
+Global,DJ Global ex U.S. (World),214.19,173.98,13.2,2.1,2013
+Asia Pacific,DJ Asia-Pacific TSM (Asia-Pacific),134.61,112.96,11.8,3,2013
+Asia Pacific,All Ordinaries (Australia),4722.9,4033.4,11.4,-1.1,2013
+Asia Pacific,S & P/ASX 200 (Australia),4705.9,3985,12.4,-1.1,2013
+Asia Pacific,DJ CBN China 600 (China),NA,NA,NA,NA,2013
+Asia Pacific,Dow Jones China 88 (China),225.79,179.49,12.7,-10.5,2013
+Asia Pacific,Shanghai Composite (China),2460.69,1959.77,3.2,-11.5,2013
+Asia Pacific,Hang Seng (Hong Kong),23311.98,18185.59,24.5,2.1,2013
+Asia Pacific,S & P BSE Sensex (India),19714.24,15814.72,24.1,4.1,2013
+Asia Pacific,Jakarta Composite (Indonesia),4375.17,3654.58,11.2,19.7,2013
+Asia Pacific,Nikkei 225 (Japan),176.27,141.08,18.5,-2.2,2013
+Asia Pacific,Nikkei Stock Avg (Japan),10395.18,8295.63,22.9,-0.8,2013
+Asia Pacific,Topix Index (Japan),872.42,695.51,18,-2,2013
+Asia Pacific,Kuala Lumpur Composite (Malaysia),1688.95,1504.22,11.3,9.6,2013
+Asia Pacific,S & P/NZX 50 (New Zealand),4080.9,3210.64,23.8,8,2013
+Asia Pacific,KSE 100 (Pakistan),16943.19,10909.12,45.1,20.7,2013
+Asia Pacific,PSEi (Philippines),5860.99,4483.36,30.6,24.3,2013
+Asia Pacific,Straits Times (Singapore),3201.74,2691.28,18.1,3.4,2013
+Asia Pacific,Kospi (South Korea),2049.28,1769.31,8.8,6.5,2013
+Asia Pacific,Colombo Stock Exchange (Sri Lanka),5972.75,4737.75,-4.8,18.9,2013
+Asia Pacific,Weighted (Taiwan),8144.04,6894.66,9.8,-1.7,2013
+Asia Pacific,SET (Thailand),1407.45,1036.21,35.8,24.2,2013
+Europe,Stoxx Europe 600 (Europe),285.33,233.87,14.3,4.1,2013
+Europe,Stoxx Europe 50 (Europe),2621.78,2213.47,8.4,0.6,2013
+Europe,Euro Stoxx 50 (Euro zone),2711.25,2068.66,15.4,-3,2013
+Europe,Euro Stoxx (Euro zone),267.59,208.72,16.6,-0.9,2013
+Europe,ATX (Austria),2476.24,1854.79,27.7,-0.3,2013
+Europe,Bel-20 (Belgium),2515.27,2049.25,18.6,0,2013
+Europe,PX 50 (Czech Republic),1066,859.2,14.9,-1.6,2013
+Europe,OMX Copenhagen (Denmark),461.96,360.9,28,13.5,2013
+Europe,OMX Helsinki (Finland),6291.35,4802.12,9,-2.4,2013
+Europe,CAC 40 (France),3733.93,2950.47,16.9,-1.7,2013
+Europe,DAX (Germany),7778.78,5969.4,27.3,9.3,2013
+Europe,BUX (Hungary),19900.88,15978.64,11.5,-4.5,2013
+Europe,FTSE MIB (Italy),17133.42,12362.51,10.2,-10.1,2013
+Europe,AEX (Netherlands),350.21,283.07,11.3,1.5,2013
+Europe,All-Shares (Norway),511.9,423.98,11.7,6.1,2013
+Europe,WIG (Poland),48107.89,36653.28,26,6.4,2013
+Europe,PSI 20 (Portugal),5812.1,4408.73,3.9,-11.8,2013
+Europe,DJ Russia Titans 10 (Russia),NA,NA,NA,NA,2013
+Europe,RTS Index (Russia),1754.81,1227.65,11.9,1.7,2013
+Europe,IBEX 35 (Spain),8902.1,5956.3,-1.6,-10.9,2013
+Europe,SX All Share (Sweden),351.52,297.41,12,5.5,2013
+Europe,Swiss Market (Switzerland),6973.69,5713.34,14.9,1.2,2013
+Europe,BIST 100 (Turkey),79642.08,49836.98,54.5,14.7,2013
+Europe,FTSE 100 (U.K.),6027.4,5260.2,6.3,3.6,2013
+Europe,FTSE 250 (U.K.),12611.85,10144.64,22.8,10.7,2013
+Americas,DJ Americas (Americas),380.35,330.13,13.5,8.7,2013
+Americas,Merval (Argentina),2952.87,2121.52,8.7,8.4,2013
+Americas,Sao Paulo Bovespa (Brazil),68394.33,52481.44,5.4,-3,2013
+Americas,S & P/TSX Comp (Canada),12740.47,11280.64,2.6,2.2,2013
+Americas,Santiago IPSA (Chile),4694.86,3558.96,-10.6,1.6,2013
+Americas,IPC All-Share (Mexico),44304.17,36548.56,18.5,11.3,2013
+Other,CASE 30 (Egypt),5969.39,3627.8,54.2,-3.2,2013
+Other,Tel Aviv (Israel),1244.51,1045.22,9.9,2.2,2013
+Other,Johannesburg All Share (S.A.),40061.75,32599.06,21.8,13.1,2013
+Global,The Global Dow  (World),2485.95,2039.42,20.4,5.6,2014
+Global,The Global Dow Euro (World),1703.37,1460.36,15.4,5,2014
+Global,DJ Global Index (World),314.2,264.86,17.3,7,2014
+Global,DJ Global ex U.S. (World),238.72,201.61,10.3,2.1,2014
+Asia Pacific,DJ Asia-Pacific TSM (Asia-Pacific),149.32,129.75,8.3,0.9,2014
+Asia Pacific,All Ordinaries (Australia),5437.3,4633.5,12.8,3.5,2014
+Asia Pacific,S & P/ASX 200 (Australia),5441.4,4656,13.2,4.2,2014
+Asia Pacific,DJ CBN China 600 (China),NA,NA,NA,NA,2014
+Asia Pacific,Dow Jones China 88 (China),239.95,176.48,-13.5,-8.5,2014
+Asia Pacific,Shanghai Composite (China),2434.48,1950.01,-7,-9.1,2014
+Asia Pacific,Hang Seng (Hong Kong),24038.55,19813.98,-0.3,0.4,2014
+Asia Pacific,S & P BSE Sensex (India),21326.42,17905.91,5.7,0.6,2014
+Asia Pacific,Jakarta Composite (Indonesia),5214.98,3967.84,-1.6,5.3,2014
+Asia Pacific,Nikkei 225 (Japan),265.63,174.34,52.4,13.4,2014
+Asia Pacific,Nikkei Stock Avg (Japan),16291.31,10395.18,56.7,16.8,2014
+Asia Pacific,Topix Index (Japan),1302.29,859.8,51.5,13.2,2014
+Asia Pacific,Kuala Lumpur Composite (Malaysia),1872.52,1613.33,9.5,6.9,2014
+Asia Pacific,S & P/NZX 50 (New Zealand),4951.36,4066.51,16.5,12.7,2014
+Asia Pacific,KSE 100 (Pakistan),25962.18,16107.89,56.5,29.3,2014
+Asia Pacific,PSEi (Philippines),7392.2,5738.06,0.8,12.5,2014
+Asia Pacific,Straits Times (Singapore),3454.37,3004.18,-1.6,-0.2,2014
+Asia Pacific,Kospi (South Korea),2059.58,1780.63,-2.6,-1.4,2014
+Asia Pacific,Colombo Stock Exchange (Sri Lanka),6488.85,5605.26,4.1,-3.5,2014
+Asia Pacific,Weighted (Taiwan),8623.43,7616.64,9.9,-1.4,2014
+Asia Pacific,SET (Thailand),1643.43,1230.77,-12.6,6,2014
+Europe,Stoxx Europe 600 (Europe),328.26,275.66,13.6,5.7,2014
+Europe,Stoxx Europe 50 (Europe),2919.54,2515.8,9.6,3.8,2014
+Europe,Euro Stoxx 50 (Euro zone),3111.37,2511.83,13.3,3.1,2014
+Europe,Euro Stoxx (Euro zone),314.31,254.52,16.2,4.2,2014
+Europe,ATX (Austria),2665.66,2170.86,1.9,-4.4,2014
+Europe,Bel-20 (Belgium),2932.46,2453.11,14.4,3.8,2014
+Europe,PX 50 (Czech Republic),1066.1,852.9,-6.5,-6.7,2014
+Europe,OMX Copenhagen (Denmark),569.85,452.91,22.9,10.1,2014
+Europe,OMX Helsinki (Finland),7380.15,5769.73,20.7,-1.6,2014
+Europe,CAC 40 (France),4320.68,3595.63,13.6,3.6,2014
+Europe,DAX (Germany),9589.39,7459.96,21.2,10.8,2014
+Europe,BUX (Hungary),19743.65,17815.69,-0.4,-4.5,2014
+Europe,FTSE MIB (Italy),19371.93,15056.57,11.9,-2.1,2014
+Europe,AEX (Netherlands),401.79,332.25,14,4.1,2014
+Europe,All-Shares (Norway),604.31,500.84,19.6,7.3,2014
+Europe,WIG (Poland),55246.4,43159.57,7.6,3,2014
+Europe,PSI 20 (Portugal),6644.32,5236.49,12.8,-4.4,2014
+Europe,DJ Russia Titans 10 (Russia),NA,NA,NA,NA,2014
+Europe,RTS Index (Russia),1635.5,1233.04,-5.5,-6.6,2014
+Europe,IBEX 35 (Spain),10037.8,7553.2,16.1,-0.3,2014
+Europe,SX All Share (Sweden),424.09,350.05,19.9,4.6,2014
+Europe,Swiss Market (Switzerland),8407.61,6822.44,20.2,8.4,2014
+Europe,BIST 100 (Turkey),93178.87,63885.22,-16.3,0.5,2014
+Europe,FTSE 100 (U.K.),6840.3,6029.1,11.1,4.4,2014
+Europe,FTSE 250 (U.K.),15935.35,12635.01,25.8,11.3,2014
+Americas,DJ Americas (Americas),465.68,379.39,21.5,10.6,2014
+Americas,Merval (Argentina),5734.2,2941.08,78.8,14.7,2014
+Americas,Sao Paulo Bovespa (Brazil),63312.46,45044.03,-20.5,-10.1,2014
+Americas,S & P/TSX Comp (Canada),13621.55,11836.86,9,0.4,2014
+Americas,Santiago IPSA (Chile),3979.61,3004.4,-17,-14.1,2014
+Americas,IPC All-Share (Mexico),45912.51,37517.23,-4.9,3.1,2014
+Other,CASE 30 (Egypt),6870.07,4523.32,18.8,-1.3,2014
+Other,Tel Aviv (Israel),1377.79,1156.19,9.2,-0.1,2014
+Other,Johannesburg All Share (S.A.),46589.7,37801.67,15.8,13.2,2014
+Global,The Global Dow  (World),2644.46,2341.6,1.3,11.2,2015
+Global,The Global Dow Euro (World),1965.19,1631.96,14.7,14.1,2015
+Global,DJ Global Index (World),334.45,296.47,2.8,11.7,2015
+Global,DJ Global ex U.S. (World),251.6,218.51,-5,6.4,2015
+Asia Pacific,DJ Asia-Pacific TSM (Asia-Pacific),1542.64,1343.08,-1.1,7.1,2015
+Asia Pacific,All Ordinaries (Australia),5656.9,5088.7,1.2,9.6,2015
+Asia Pacific,S & P/ASX 200 (Australia),5658.5,5070.3,1.6,10.2,2015
+Asia Pacific,DJ CBN China 600 (China),NA,NA,NA,NA,2015
+Asia Pacific,Dow Jones China 88 (China),296.14,167.25,57.5,15,2015
+Asia Pacific,Shanghai Composite (China),3234.68,1991.25,52.9,13.7,2015
+Asia Pacific,Hang Seng (Hong Kong),25317.95,21182.16,4.6,9,2015
+Asia Pacific,S & P BSE Sensex (India),28693.99,20193.35,33.7,21.6,2015
+Asia Pacific,Jakarta Composite (Indonesia),5246.48,4175.81,23.1,11.2,2015
+Asia Pacific,Nikkei 225 (Japan),292.71,229.49,7.1,24.6,2015
+Asia Pacific,Nikkei Stock Avg (Japan),17935.64,13910.16,7.1,27.3,2015
+Asia Pacific,Topix Index (Japan),1447.58,1132.76,8.1,24.5,2015
+Asia Pacific,Kuala Lumpur Composite (Malaysia),1892.65,1673.94,-4.5,4.6,2015
+Asia Pacific,S & P/NZX 50 (New Zealand),5592.33,4737.01,17.5,19.4,2015
+Asia Pacific,KSE 100 (Pakistan),32731.61,25478.93,25.7,42.6,2015
+Asia Pacific,PSEi (Philippines),7360.75,5842.88,22.8,18.3,2015
+Asia Pacific,Straits Times (Singapore),3374.06,2960.09,7.6,8.4,2015
+Asia Pacific,Kospi (South Korea),2082.61,1886.85,-1,1.8,2015
+Asia Pacific,Colombo Stock Exchange (Sri Lanka),7548.23,5835.92,23,6.5,2015
+Asia Pacific,Weighted (Taiwan),9569.17,8264.48,8.1,9.6,2015
+Asia Pacific,SET (Thailand),1600.16,1224.62,15.3,13.5,2015
+Europe,Stoxx Europe 600 (Europe),350.97,310.03,4.2,11.4,2015
+Europe,Stoxx Europe 50 (Europe),3111.92,2781.33,2.9,7.8,2015
+Europe,Euro Stoxx 50 (Euro zone),3314.8,2874.65,2.1,9.8,2015
+Europe,Euro Stoxx (Euro zone),336.47,288.41,2.3,11.4,2015
+Europe,ATX (Austria),2729.07,2032.13,-14.2,4.1,2015
+Europe,Bel-20 (Belgium),3335.69,2844.21,13,15.8,2015
+Europe,PX 50 (Czech Republic),1046.1,901.3,-3.1,1.4,2015
+Europe,OMX Copenhagen (Denmark),700.74,573.28,18.4,23.3,2015
+Europe,OMX Helsinki (Finland),8003.64,6965.42,6.5,12.5,2015
+Europe,CAC 40 (France),4595,3918.62,0.1,9.7,2015
+Europe,DAX (Germany),10087.12,8571.95,3.5,17.1,2015
+Europe,BUX (Hungary),19596.46,16140.53,-10.4,-0.7,2015
+Europe,FTSE MIB (Italy),22502.97,18078.97,0.1,7.4,2015
+Europe,AEX (Netherlands),431.06,376.27,5.1,10.1,2015
+Europe,All-Shares (Norway),704.83,575.27,3.5,11.7,2015
+Europe,WIG (Poland),55636.77,49520.84,-0.2,10.3,2015
+Europe,PSI 20 (Portugal),7734.95,4691.33,-28.3,-4.7,2015
+Europe,DJ Russia Titans 10 (Russia),NA,NA,NA,NA,2015
+Europe,RTS Index (Russia),1442.73,629.15,-45.2,-17,2015
+Europe,IBEX 35 (Spain),11187.8,9669.7,5.6,5.9,2015
+Europe,SX All Share (Sweden),477.88,405.51,12.3,15.1,2015
+Europe,Swiss Market (Switzerland),9212.85,8057.54,9.5,14.8,2015
+Europe,BIST 100 (Turkey),86234.1,61189.15,29.5,18.5,2015
+Europe,FTSE 100 (U.K.),6878.5,6182.7,-2.7,5.5,2015
+Europe,FTSE 250 (U.K.),16726,14426.74,0.2,16.7,2015
+Americas,DJ Americas (Americas),514.2,438.73,9.7,15.4,2015
+Americas,Merval (Argentina),12593.07,5283.03,61,52.1,2015
+Americas,Sao Paulo Bovespa (Brazil),61895.98,44965.66,-4.8,-5.7,2015
+Americas,S & P/TSX Comp (Canada),15657.63,13486.2,8.9,7.3,2015
+Americas,Santiago IPSA (Chile),3377.92,2860.24,1.2,-8.7,2015
+Americas,IPC All-Share (Mexico),46357.24,37950.97,0.1,4.1,2015
+Other,CASE 30 (Egypt),9811.4,6782.84,31.6,35.1,2015
+Other,Tel Aviv (Israel),1493.85,1295.48,10.5,10.4,2015
+Other,Johannesburg All Share (S.A.),52242.12,44451.57,7.2,15.7,2015
+Global,The Global Dow  (World),2639.52,2200.33,-6.4,3.7,2016
+Global,The Global Dow Euro (World),2305.98,1846.63,3.4,10.4,2016
+Global,DJ Global Index (World),341.62,288.56,-4,4.3,2016
+Global,DJ Global ex U.S. (World),246.68,199.02,-6.9,-1.5,2016
+Asia Pacific,DJ Asia-Pacific TSM (Asia-Pacific),1619.39,1269.58,-4.5,0.5,2016
+Asia Pacific,All Ordinaries (Australia),5954.8,4958.1,-2,3.9,2016
+Asia Pacific,S & P/ASX 200 (Australia),5982.7,4909.6,-3.3,3.7,2016
+Asia Pacific,DJ CBN China 600 (China),NA,NA,NA,NA,2016
+Asia Pacific,Dow Jones China 88 (China),408.69,224.92,-12.1,7.3,2016
+Asia Pacific,Shanghai Composite (China),5166.35,2927.29,-1.6,13.1,2016
+Asia Pacific,Hang Seng (Hong Kong),28442.75,20556.6,-10.1,-2.9,2016
+Asia Pacific,S & P BSE Sensex (India),29681.77,24893.81,-8,9,2016
+Asia Pacific,Jakarta Composite (Indonesia),5523.29,4120.5,-13.3,0.9,2016
+Asia Pacific,Nikkei 225 (Japan),343.2,274.44,7.2,19,2016
+Asia Pacific,Nikkei Stock Avg (Japan),20868.03,16795.96,6,20,2016
+Asia Pacific,Topix Index (Japan),1691.29,1357.98,7.7,19.3,2016
+Asia Pacific,Kuala Lumpur Composite (Malaysia),1862.8,1532.14,-4.8,-0.8,2016
+Asia Pacific,S & P/NZX 50 (New Zealand),6324.26,5546.88,13.6,15.9,2016
+Asia Pacific,KSE 100 (Pakistan),36228.88,28927.04,0.8,25.6,2016
+Asia Pacific,PSEi (Philippines),8127.48,6701.35,-6.1,4.6,2016
+Asia Pacific,Straits Times (Singapore),3539.95,2787.94,-14.8,-4.2,2016
+Asia Pacific,Kospi (South Korea),2173.41,1829.81,0.2,-1.6,2016
+Asia Pacific,Colombo Stock Exchange (Sri Lanka),7605.79,6782.43,-6.5,6.1,2016
+Asia Pacific,Weighted (Taiwan),9973.12,7410.34,-12.5,1.3,2016
+Asia Pacific,SET (Thailand),1615.89,1261.66,-14.8,-3.7,2016
+Europe,Stoxx Europe 600 (Europe),414.06,331.61,6.8,7.4,2016
+Europe,Stoxx Europe 50 (Europe),3591.47,2897.12,3.7,4.5,2016
+Europe,Euro Stoxx 50 (Euro zone),3828.78,3007.91,4.7,5.3,2016
+Europe,Euro Stoxx (Euro zone),392.35,307.77,8.3,7.7,2016
+Europe,ATX (Austria),2681.44,2122.08,10.3,-1.8,2016
+Europe,Bel-20 (Belgium),3905.71,3190.24,13.5,13.1,2016
+Europe,PX 50 (Czech Republic),1058.4,919.7,-0.5,-4.1,2016
+Europe,OMX Copenhagen (Denmark),923.55,672.09,31.2,24,2016
+Europe,OMX Helsinki (Finland),9374.42,7534.35,9,11.2,2016
+Europe,CAC 40 (France),5268.91,4083.5,10,6.6,2016
+Europe,DAX (Germany),12374.73,9427.64,8.6,9.8,2016
+Europe,BUX (Hungary),23964.47,15686.69,44,8.2,2016
+Europe,FTSE MIB (Italy),24031.19,18123.45,14,6.9,2016
+Europe,AEX (Netherlands),509.24,408.43,5.1,7.1,2016
+Europe,All-Shares (Norway),711.22,593.99,5.5,8.3,2016
+Europe,WIG (Poland),57379.45,43887.16,-10.2,-1.8,2016
+Europe,PSI 20 (Portugal),6324.88,4606.25,11.2,-3.8,2016
+Europe,DJ Russia Titans 10 (Russia),NA,NA,NA,NA,2016
+Europe,RTS Index (Russia),1082.21,724.73,-1.6,-21.1,2016
+Europe,IBEX 35 (Spain),11866.4,9291.4,-6.8,3.4,2016
+Europe,SX All Share (Sweden),564.9,462.48,3.5,11.4,2016
+Europe,Swiss Market (Switzerland),9526.79,7899.59,-3.2,7,2016
+Europe,BIST 100 (Turkey),91412.94,69308.74,-18.4,-3.9,2016
+Europe,FTSE 100 (U.K.),7104,5874.1,-5,0,2016
+Europe,FTSE 250 (U.K.),18263.46,15778.65,7.5,10.5,2016
+Americas,DJ Americas (Americas),524.44,454.62,-3.4,7.9,2016
+Americas,Merval (Argentina),14173.87,8057.87,41.8,56.6,2016
+Americas,Sao Paulo Bovespa (Brazil),58051.61,42141.04,-11.3,-12.3,2016
+Americas,S & P/TSX Comp (Canada),15450.87,12695.49,-10.2,1,2016
+Americas,Santiago IPSA (Chile),3359.04,2826.03,-7.2,-8.6,2016
+Americas,IPC All-Share (Mexico),45773.31,40950.58,2.5,-1.9,2016
+Other,CASE 30 (Egypt),10045.93,6321.39,-22.5,6.8,2016
+Other,Tel Aviv (Israel),1723.56,1446.41,4.6,8,2016
+Other,Johannesburg All Share (S.A.),55188.34,47631.19,3.1,7,2016
+Global,The Global Dow  (World),2570.24,2047.44,10.6,0.9,2017
+Global,The Global Dow Euro (World),2307.07,1699.54,14.3,10.3,2017
+Global,DJ Global Index (World),330.27,272.15,8.2,1.6,2017
+Global,DJ Global ex U.S. (World),222.45,184.52,4.7,-3.2,2017
+Asia Pacific,DJ Asia-Pacific TSM (Asia-Pacific),1498.2,1190.45,4.8,-0.5,2017
+Asia Pacific,All Ordinaries (Australia),5746.7,4816.6,7,2.2,2017
+Asia Pacific,S & P/ASX 200 (Australia),5699.1,4765.3,7,1.9,2017
+Asia Pacific,DJ CBN China 600 (China),NA,NA,NA,NA,2017
+Asia Pacific,Dow Jones China 88 (China),286.73,226.54,-7.8,12.6,2017
+Asia Pacific,Shanghai Composite (China),3539.18,2655.66,-12.3,14,2017
+Asia Pacific,Hang Seng (Hong Kong),24099.7,18319.58,0.4,-1.8,2017
+Asia Pacific,S & P BSE Sensex (India),29045.28,22951.83,3.8,8.4,2017
+Asia Pacific,Jakarta Composite (Indonesia),5472.32,4414.13,15.3,7.4,2017
+Asia Pacific,Nikkei 225 (Japan),311.68,241.81,-2.3,4.6,2017
+Asia Pacific,Nikkei Stock Avg (Japan),19494.53,14952.02,0.4,5.5,2017
+Asia Pacific,Topix Index (Japan),1552.36,1196.28,-1.9,5.3,2017
+Asia Pacific,Kuala Lumpur Composite (Malaysia),1727.99,1600.92,-3,-4.3,2017
+Asia Pacific,S & P/NZX 50 (New Zealand),7571.11,5933.96,8.8,13,2017
+Asia Pacific,KSE 100 (Pakistan),48240.28,30564.5,46.1,22.9,2017
+Asia Pacific,PSEi (Philippines),8102.3,6084.28,-1.6,5.1,2017
+Asia Pacific,Straits Times (Singapore),2960.78,2532.7,-0.1,-3,2017
+Asia Pacific,Kospi (South Korea),2068.72,1835.28,5.6,1,2017
+Asia Pacific,Colombo Stock Exchange (Sri Lanka),6867.62,5862.35,-9.8,1.2,2017
+Asia Pacific,Weighted (Taiwan),9392.68,7664.01,11,2.4,2017
+Asia Pacific,SET (Thailand),1552.64,1224.83,19.8,5.9,2017
+Europe,Stoxx Europe 600 (Europe),363.18,303.58,1.8,3.7,2017
+Europe,Stoxx Europe 50 (Europe),3052.2,2566.26,-0.2,1.4,2017
+Europe,Euro Stoxx 50 (Euro zone),3308.67,2680.35,4.5,2.6,2017
+Europe,Euro Stoxx (Euro zone),353.02,284.92,5.3,4.4,2017
+Europe,ATX (Austria),2654.94,1957.05,13.1,1.6,2017
+Europe,Bel-20 (Belgium),3653.18,3130.76,-0.3,8,2017
+Europe,PX 50 (Czech Republic),941.1,790.1,-1.5,-2.4,2017
+Europe,OMX Copenhagen (Denmark),904.36,735.9,-8.9,12.6,2017
+Europe,OMX Helsinki (Finland),9014.93,7257.23,7.6,7.3,2017
+Europe,CAC 40 (France),4882.38,3896.71,8,4.9,2017
+Europe,DAX (Germany),11598.33,8752.87,12.8,7.3,2017
+Europe,BUX (Hungary),32099.05,22536.03,35.8,20.1,2017
+Europe,FTSE MIB (Italy),20983.24,15103.58,-5.6,1.1,2017
+Europe,AEX (Netherlands),486.37,382.61,12.7,6.7,2017
+Europe,All-Shares (Norway),772.91,552.32,20.6,8.8,2017
+Europe,WIG (Poland),51907.77,42152.7,14.4,0.03,2017
+Europe,PSI 20 (Portugal),5231.14,4260.13,-9.5,-10.6,2017
+Europe,DJ Russia Titans 10 (Russia),NA,NA,NA,NA,2017
+Europe,RTS Index (Russia),1164.15,628.41,52.2,-7.2,2017
+Europe,IBEX 35 (Spain),9418.7,7645.5,1.1,-1.2,2017
+Europe,SX All Share (Sweden),539.52,435.21,10.1,8.5,2017
+Europe,Swiss Market (Switzerland),8818.09,7496.62,-6.8,0.1,2017
+Europe,BIST 100 (Turkey),86343.65,68567.89,10.3,5.1,2017
+Europe,FTSE 100 (U.K.),7142.8,5537,14.4,2,2017
+Europe,FTSE 250 (U.K.),18342.07,14967.86,3.7,4.4,2017
+Americas,DJ Americas (Americas),548.59,433.35,12.6,5.4,2017
+Americas,Merval (Argentina),18409.07,9401.06,52,48.7,2017
+Americas,Sao Paulo Bovespa (Brazil),64924.52,37497.48,41.4,5.8,2017
+Americas,S & P/TSX Comp (Canada),15422.12,11843.11,17.5,4,2017
+Americas,Santiago IPSA (Chile),3358.44,2759.77,9.5,1,2017
+Americas,IPC All-Share (Mexico),48694.9,40265.37,8.5,2.7,2017
+Other,CASE 30 (Egypt),12420.3,5713.35,76,21.7,2017
+Other,Tel Aviv (Israel),1531.42,1382.34,-4.1,3.4,2017
+Other,Johannesburg All Share (S.A.),54474.09,46282.02,-0.1,3.2,2017
+Global,The Global Dow  (World),3087.78,2534.93,21.7,7.2,2018
+Global,The Global Dow Euro (World),2449.49,2216.17,6.9,7.5,2018
+Global,DJ Global Index (World),397.52,326.36,21.7,7.4,2018
+Global,DJ Global ex U.S. (World),266.75,213.74,24.4,5.8,2018
+Asia Pacific,DJ Asia-Pacific TSM (Asia-Pacific),NA,NA,NA,NA,2018
+Asia Pacific,All Ordinaries (Australia),6189.4,5665.4,7.8,4.2,2018
+Asia Pacific,S & P/ASX 200 (Australia),6088.1,5611,7,3.5,2018
+Asia Pacific,DJ CBN China 600 (China),NA,NA,NA,NA,2018
+Asia Pacific,Dow Jones China 88 (China),359.28,264.26,28.9,6,2018
+Asia Pacific,Shanghai Composite (China),3447.84,3052.79,6.6,1.4,2018
+Asia Pacific,Hang Seng (Hong Kong),30003.49,22000.56,36,8,2018
+Asia Pacific,S & P BSE Sensex (India),34056.83,26595.45,27.1,7.1,2018
+Asia Pacific,Jakarta Composite (Indonesia),6355.65,5250.97,20,7.1,2018
+Asia Pacific,Nikkei 225 (Japan),360.63,291.93,17.6,7.4,2018
+Asia Pacific,Nikkei Stock Avg (Japan),22939.18,18335.63,19.1,8.7,2018
+Asia Pacific,Topix Index (Japan),1831.93,1459.07,19.7,8.5,2018
+Asia Pacific,Kuala Lumpur Composite (Malaysia),1796.81,1635.53,9.4,0.5,2018
+Asia Pacific,S & P/NZX 50 (New Zealand),8408.53,6881.22,22,14.5,2018
+Asia Pacific,KSE 100 (Pakistan),NA,NA,NA,NA,2018
+Asia Pacific,PSEi (Philippines),8558.42,6840.64,25.1,5.8,2018
+Asia Pacific,Straits Times (Singapore),3468.77,2880.76,18.1,0.3,2018
+Asia Pacific,Kospi (South Korea),2557.97,2026.16,21.8,8.2,2018
+Asia Pacific,Colombo Stock Exchange (Sri Lanka),6766.14,5974.94,2.3,-4.4,2018
+Asia Pacific,Weighted (Taiwan),10854.57,9253.5,15,4.6,2018
+Asia Pacific,SET (Thailand),1753.71,1535.51,13.7,5.4,2018
+Europe,Stoxx Europe 600 (Europe),396.77,360.12,7.7,4.2,2018
+Europe,Stoxx Europe 50 (Europe),3276.11,2979.48,5.6,1.7,2018
+Europe,Euro Stoxx 50 (Euro zone),3697.4,3230.68,6.5,3.2,2018
+Europe,Euro Stoxx (Euro zone),400.44,346.53,10.1,6.1,2018
+Europe,ATX (Austria),3445.23,2618.43,30.6,16.3,2018
+Europe,Bel-20 (Belgium),4118.51,3542.27,10.3,6.3,2018
+Europe,PX 50 (Czech Republic),1083.5,921.6,17,4.4,2018
+Europe,OMX Copenhagen (Denmark),952.52,795.79,16.1,10.9,2018
+Europe,OMX Helsinki (Finland),10012.01,8754.81,6.4,6.5,2018
+Europe,CAC 40 (France),5517.97,4748.9,9.3,7.2,2018
+Europe,DAX (Germany),13478.86,11481.06,12.5,9.2,2018
+Europe,BUX (Hungary),40273.66,31634.26,23,33.6,2018
+Europe,FTSE MIB (Italy),23046.05,18590.73,13.6,4.5,2018
+Europe,AEX (Netherlands),555.22,476.71,12.7,8.5,2018
+Europe,All-Shares (Norway),910.73,748.42,18.6,13.3,2018
+Europe,WIG (Poland),65733.79,51754.03,23.2,7.6,2018
+Europe,PSI 20 (Portugal),5475.67,4467.94,15.2,3.3,2018
+Europe,DJ Russia Titans 10 (Russia),NA,NA,NA,NA,2018
+Europe,RTS Index (Russia),1195.61,973.33,0.2,13.2,2018
+Europe,IBEX 35 (Spain),11135.4,9304.8,7.4,-1.1,2018
+Europe,SX All Share (Sweden),600.2,531.09,6.4,6,2018
+Europe,Swiss Market (Switzerland),9452.32,8219.87,14.1,1.3,2018
+Europe,BIST 100 (Turkey),115333.01,76143.59,47.6,11.1,2018
+Europe,FTSE 100 (U.K.),7687.8,7099.2,7.6,5,2018
+Europe,FTSE 250 (U.K.),20726.26,18077.27,14.7,8.9,2018
+Americas,DJ Americas (Americas),645.2,540.31,18.9,8.2,2018
+Americas,Merval (Argentina),30065.61,16917.86,77.7,52.7,2018
+Americas,Sao Paulo Bovespa (Brazil),76989.79,59588.7,26.9,15.1,2018
+Americas,S & P/TSX Comp (Canada),16221.95,14951.88,6,3.4,2018
+Americas,Santiago IPSA (Chile),4255.93,3221.2,30.6,10,2018
+Americas,IPC All-Share (Mexico),51713.38,45553.51,8.1,4.5,2018
+Other,CASE 30 (Egypt),NA,NA,NA,NA,2018
+Other,Tel Aviv (Israel),1523.24,1363.5,4.2,1.4,2018
+Other,Johannesburg All Share (S.A.),61211.52,50474.95,17.5,5.8,2018
