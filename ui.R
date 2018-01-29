@@ -139,7 +139,7 @@ dashboardBody(
           p('Welcome! This page displays information about U.S. stock indexes.', br(), 
         '\'Map\': Location of respective stock exchanges; \'General\': Stock index charts from  January 2016 to January 2018', br(),
           '\'Period before Win\': from January 2016 to middle of October 2016 (before President Trump\'s win)', br(),
-            '\'Crucial Moment\': from October 15, 2016 to December 31, 2017 (during President Trump\'s win)', br(),
+            '\'Crucial Moment\': from October 15, 2016 to December 31, 2016 (during President Trump\'s win)', br(),
             '\'Upward (Historical) Moment\': from January 2017 to middle of January 2018'),
           width=12
         )
@@ -388,7 +388,7 @@ dashboardBody(
                  p('Welcome! This page displays information about Global stock indexes.', br(), 
                    '\'General\': Stock index charts from  January 2016 to January 2018', br(),
                    '\'Period before Win\': from January 2016 to middle of October 2016 (before President Trump\'s win)', br(),
-                   '\'Crucial Moment\': from October 15, 2016 to December 31, 2017 (during President Trump\'s win)', br(),
+                   '\'Crucial Moment\': from October 15, 2016 to December 31, 2016 (during President Trump\'s win)', br(),
                    '\'Upward (Historical) Moment\': from January 2017 to middle of January 2018'),
                  width=12
                )
@@ -634,7 +634,7 @@ dashboardBody(
                 p('Welcome! This page displays information about Acia Pacific stock indexes.', br(), 
                   '\'Map\': Location of respective stock exchanges; \'General\': Stock index charts from  January 2016 to January 2018', br(),
                   '\'Period before Win\': from January 2016 to middle of October 2016 (before President Trump\'s win)', br(),
-                  '\'Crucial Moment\': from October 15, 2016 to December 31, 2017 (during President Trump\'s win)', br(),
+                  '\'Crucial Moment\': from October 15, 2016 to December 31, 2016 (during President Trump\'s win)', br(),
                   '\'Upward (Historical) Moment\': from January 2017 to middle of January 2018'),
                 width=12
               )
@@ -882,7 +882,7 @@ dashboardBody(
                 p('Welcome! This page displays information about stock indexes in Europe.', br(), 
                   '\'Map\': Location of respective stock exchanges; \'General\': Stock index charts from  January 2016 to January 2018', br(),
                   '\'Period before Win\': from January 2016 to middle of October 2016 (before President Trump\'s win)', br(),
-                  '\'Crucial Moment\': from October 15, 2016 to December 31, 2017 (during President Trump\'s win)', br(),
+                  '\'Crucial Moment\': from October 15, 2016 to December 31, 2016 (during President Trump\'s win)', br(),
                   '\'Upward (Historical) Moment\': from January 2017 to middle of January 2018'),
                 width=12
               )
@@ -1130,7 +1130,7 @@ dashboardBody(
                 p('Welcome! This page displays information about stock indexes in Americas.', br(), 
                   '\'Map\': Location of respective stock exchanges; \'General\': Stock index charts from  January 2016 to January 2018', br(),
                   '\'Period before Win\': from January 2016 to middle of October 2016 (before President Trump\'s win)', br(),
-                  '\'Crucial Moment\': from October 15, 2016 to December 31, 2017 (during President Trump\'s win)', br(),
+                  '\'Crucial Moment\': from October 15, 2016 to December 31, 2016 (during President Trump\'s win)', br(),
                   '\'Upward (Historical) Moment\': from January 2017 to middle of January 2018'),
                 width=12
               )
@@ -1377,7 +1377,7 @@ dashboardBody(
                 p('Welcome! This page displays information about  stock indexes in other regions.', br(), 
                   '\'Map\': Location of respective stock exchanges; \'General\': Stock index charts from  January 2016 to January 2018', br(),
                   '\'Period before Win\': from January 2016 to middle of October 2016 (before President Trump\'s win)', br(),
-                  '\'Crucial Moment\': from October 15, 2016 to December 31, 2017 (during President Trump\'s win)', br(),
+                  '\'Crucial Moment\': from October 15, 2016 to December 31, 2016 (during President Trump\'s win)', br(),
                   '\'Upward (Historical) Moment\': from January 2017 to middle of January 2018'),
                 width=12
               )
@@ -1623,7 +1623,7 @@ tabItem(tabName = "distri",
             p('Welcome! Curious to compare various major world stock indexes? This page will help.', br(), 
               '\'General\': Stock index line chart from  January 2016 to January 2018', br(),
               '\'Period before Win\': from January 2016 to middle of October 2016 (before President Trump\'s win)', br(),
-              '\'Crucial Moment\': from October 15, 2016 to December 31, 2017 (during President Trump\'s win)', br(),
+              '\'Crucial Moment\': from October 15, 2016 to December 31, 2016 (during President Trump\'s win)', br(),
               '\'Upward (Historical) Moment\': from January 2017 to middle of January 2018'),
             width=12
           )
