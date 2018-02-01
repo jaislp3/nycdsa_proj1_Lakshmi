@@ -1828,7 +1828,7 @@ tabItem(tabName = "comparison",
                 'This project has no affiliation with Wall Street Journal.',
                 'It\'s build on top of their freely',
                 a(href='http://quotes.wsj.com/index/DJI/historical-prices', 'available data'),
-                'as part of the', a(href='nycdatascience.com/data-science-bootcamp/', 'NYC Data Science Academy Data Science Bootcamp.')
+                'as part of the', a(href='https://nycdatascience.com/data-science-bootcamp/', 'NYC Data Science Academy Data Science Bootcamp.')
                 )
               )
           ) #tab item 'about' end 
