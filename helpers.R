@@ -44,7 +44,7 @@ indexChart = function(data, ind, dateFrom, dateTo, chart) {
         p= ggplot(c, aes(x = Date, y = Close)) +
           geom_point(color='red') +
           #scale_x_date(breaks=date_breaks(width = '1 month')) +
-          labs(title = paste(ind, "Line Chart", sep=' '), y = "Closing Value", x = "") + 
+          labs(title = paste(ind, "Dot Plot", sep=' '), y = "Closing Value", x = "") + 
           #theme(axis.text.y = element_text(size=10, angle=60 ))+
           theme_tq_dark() + scale_color_tq(theme = "dark")  
           #scale_fill_tq(theme = "green") 
@@ -234,12 +234,11 @@ comparisonindexChart = function(yr_data, regi, variable) {
       theme(plot.title = element_text(size=20)) +
       labs(title=paste(regi, "Bar Chart", sep=' '), y='Percent Change', x='')
     
-    ytitle <- list(
-      title = "Percentage Change",
-      titlefont = f
-    )
+    #ytitle <- list(
+     # title = "Percentage Change",
+     # titlefont = f    )
     
-    ggplotly(comp_p) %>% layout(yaxis=ytitle, showlegend=FALSE)
+    ggplotly(comp_p) %>% layout(showlegend=FALSE)
         }
   
   
